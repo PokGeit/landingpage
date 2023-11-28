@@ -4,6 +4,7 @@
 
 .defaultText {
     color: #F9FAF8;
+    font-size: 19px;
 }
 
 .header{
@@ -178,4 +179,10 @@
     font-size: 24px;
     color: #F9FAF8;
     font-weight: 800;
+}
+
+.footer {
+    text-align: center;
+    height: 45px;
+    padding-top: 20px;
 }
