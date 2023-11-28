@@ -29,14 +29,16 @@
 }
 
 .headerLinkBox {
-    font-size: 22px;
-    color: #F9FAF8;
+    font-size: 18px;
+    color: #e5e7eb;
+    text-decoration: none;
     padding-top: 20px;
 }
 
 .headerLinkText {
-    font-size: 22px;
-    color: #F9FAF8;
+    font-size: 18px;
+    color: #e5e7eb;
+    text-decoration: none;
     margin: 10px;
 }
 
