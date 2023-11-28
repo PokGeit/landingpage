@@ -111,6 +111,7 @@
     width: 150px;
     height: 200px;
     border-radius: 10px;
+    padding-bottom: 50px;
 }
 
 .infoBodyBoxPhoto {
@@ -121,4 +122,30 @@
 }
 
 .infoBodyBoxText {
+}
+
+.quoteBody {
+    width: 100%;
+    height: 200px;
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+}
+
+.quoteBox {
+    width: 50%;
+}
+
+.quoteBodyQuote {
+    font-size: 32px;
+    color: #1F2937;
+    font-style: italic;
+    text-align: center;
+}
+
+.quoteBodyAuthor {
+    font-size: 38px;
+    color: #000000;
+    font-style: bold;
+    text-align: right;
 }
