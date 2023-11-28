@@ -86,3 +86,39 @@
     font-size: 18px;
     font-weight: bold;
 }
+
+.infoBody{
+    width: 100%;
+}
+
+.infoBoxWrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 35px;
+    flex: 1;
+}
+
+.infoBodyTitle{
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 800;
+    text-align: center;
+    margin: 20px;
+}
+
+.infoBodyBox {
+    width: 150px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.infoBodyBoxPhoto {
+    border: 2px solid blue;
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+}
+
+.infoBodyBoxText {
+}
